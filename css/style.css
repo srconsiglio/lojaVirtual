@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#menu {
+  
+}
+
+.container {
+  background-color: white;
+  background-image: url(/images/fundo.jpg);
+  margin: 0;
+  width: 500;
+}
